@@ -6,13 +6,12 @@ A Website to showcase my various completed programming projects complete with li
 
 ## Installation
 
-all thats required is to go to the following link to view the finished website:
+all thats required is to go to the following link to view the finished website: https://masterchef842.github.io/Wills-Programming-Showcase/
 
 ## Usage
 
 Use the website and the projects it links to as you see fit, just dont copy them!.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![an image of the deployed site](assets\screencapture-file-C-Users-willl-bootcamp-Wills-Programming-Showcase-index-html-2023-04-05-21_18_23.png)
